@@ -1,17 +1,22 @@
 [
   {
-    "pos": "Primo",
     "username": "Dadrake",
-    "record": "40"
+    "record": "50"
   },
   {
-    "pos": "Secondo",
     "username": "Pippo",
-    "record": "25"
+    "record": "45"
   },
   {
-    "pos": "Terzo",
-    "username": "Marco Polo",
-    "record": "10"
+    "username": "Marco",
+    "record": "42"
+  },
+    {
+    "username": "Tonx",
+    "record": "38"
+  },
+    {
+    "username": "Bulbasaur",
+    "record": "36"
   }
 ]
