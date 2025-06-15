@@ -1,14 +1,17 @@
 [
   {
-    "username": "Filippo",
+    "pos": "Primo",
+    "username": "Dadrake",
     "record": "40"
   },
   {
-    "username": "Marco",
+    "pos": "Secondo",
+    "username": "Pippo",
     "record": "25"
   },
   {
-    "username": "Dadrake",
+    "pos": "Terzo",
+    "username": "Marco Polo",
     "record": "10"
   }
 ]
