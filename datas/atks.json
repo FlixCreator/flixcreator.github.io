@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Fire",
+    "cat": "special",
+    "power": "20",
+    "codes": ["move"]
+  }
+]
